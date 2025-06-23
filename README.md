@@ -35,3 +35,7 @@ GitHub: [@nthales1000](https://github.com/nthales1000)
 Desenvolvedor e colaborador do projeto, estudante de Engenharia de Computação.  
 GitHub: [@fraagelo](https://github.com/fraagelo)
 
+## Acesso ao Projeto no Google Colab
+
+(https://colab.research.google.com/drive/13xNpRyj_KcQ5YleEJucASZh6Urt8dKBm?usp=sharing)
+
