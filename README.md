@@ -22,3 +22,16 @@ Este projeto tem como objetivo ajudar DJs a organizarem seus arquivos de áudio 
 - Lista Encadeada
 - Fila (deque)
 - Pilha (list)
+
+---
+
+## 👥 Autores
+
+- **Thales Jaime Nascimento De Paula**  
+Desenvolvedor e idealizador do projeto, DJ e estudante de Engenharia de Computação.  
+GitHub: [@nthales1000](https://github.com/nthales1000)
+
+- **João Pedro Lopes Siviero**  
+Desenvolvedor e colaborador do projeto, estudante de Engenharia de Computação.  
+GitHub: [@fraagelo](https://github.com/fraagelo)
+
