@@ -103,14 +103,14 @@ for arquivo in arquivos:
 
     pilha.append(nome)
 
-print("🎧 ▶️ Playlist (Fila):")
+print("Playlist (Fila):")
 print(list(fila))
 
-print("\n🎧 🔄 Playlist Reversa (Pilha):")
+print("\nPlaylist Reversa (Pilha):")
 print(list(reversed(pilha)))
 
-print("\n🎧 📜 Lista de Arquivos (Lista Encadeada):")
+print("\nLista de Arquivos (Lista Encadeada):")
 lista.exibir()
 
-print("\n🎧 🌳 Arquivos organizados por BPM (Árvore):")
+print("\nArquivos organizados por BPM (Árvore):")
 arvore.em_ordem(arvore.root)
