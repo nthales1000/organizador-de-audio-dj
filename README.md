@@ -8,7 +8,7 @@ Este projeto tem como objetivo ajudar DJs a organizarem seus arquivos de áudio 
 ## Funcionalidades
 - Ler todos os arquivos de áudio de uma pasta.
 -  Extrair o BPM do nome do arquivo (ex.: `funk_130.mp3` → BPM 130).
--  Organizar os arquivos por BPM usando uma **Árvore Binária de Busca (ABB)**.
+-  Organizar os arquivos por BPM usando uma **Árvore Binária de Busca**.
 -  Listar todos os arquivos usando uma **Lista Encadeada**.
 -  Criar uma playlist na ordem de inserção usando uma **Fila (FIFO)**.
 -  Criar uma playlist reversa usando uma **Pilha (LIFO)**.
@@ -18,14 +18,14 @@ Este projeto tem como objetivo ajudar DJs a organizarem seus arquivos de áudio 
 -  Bibliotecas padrão: `os`, `re` e `collections`
 
 ##  Estruturas de Dados Usadas
-- Árvore Binária de Busca (ABB)
+- Árvore Binária de Busca 
 - Lista Encadeada
-- Fila (deque)
-- Pilha (list)
+- Fila 
+- Pilha 
 
 ---
 
-##  Autores
+## Autores
 
 - **Thales Jaime Nascimento De Paula**  
 Desenvolvedor e idealizador do projeto, DJ e estudante de Engenharia de Computação.  
@@ -38,4 +38,9 @@ GitHub: [@fraagelo](https://github.com/fraagelo)
 ## Acesso ao Projeto no Google Colab
 
 (https://colab.research.google.com/drive/13xNpRyj_KcQ5YleEJucASZh6Urt8dKBm?usp=sharing)
+
+ **Download da Pasta de Teste (Arquivos de música):**  
+[Download da Pasta de Teste no Google Drive](https://drive.google.com/drive/folders/1bGt11U9esZfqmbtsy89xDyIjj_H8CJ-R?usp=sharing)
+
+
 
