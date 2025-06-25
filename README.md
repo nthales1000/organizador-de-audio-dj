@@ -42,5 +42,9 @@ GitHub: [@fraagelo](https://github.com/fraagelo)
  **Download da Pasta de Teste (Arquivos de música):**  
 [Download da Pasta de Teste no Google Drive](https://drive.google.com/drive/folders/1bGt11U9esZfqmbtsy89xDyIjj_H8CJ-R?usp=sharing)
 
+ **Ficha Técnica (PDF no Canva):**  
+[Ver Ficha Técnica](https://www.canva.com/design/DAGrSqCJN0M/-efaljhRdGz1jb7FgrecBQ/edit?utm_content=DAGrSqCJN0M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
 
 
