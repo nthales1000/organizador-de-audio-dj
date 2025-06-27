@@ -45,6 +45,7 @@ GitHub: [@fraagelo](https://github.com/fraagelo)
  **Ficha Técnica (PDF no Canva):**  
 [Ver Ficha Técnica](https://www.canva.com/design/DAGrSqCJN0M/-efaljhRdGz1jb7FgrecBQ/edit?utm_content=DAGrSqCJN0M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+[Ver Ficha Técnica](https://www.canva.com/design/DAGrZVblNLU/wvv0cC5ClS70sdliJH12kQ/edit?utm_content=DAGrZVblNLU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 
